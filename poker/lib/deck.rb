@@ -25,4 +25,9 @@ class Deck
   def length
     @deck.length
   end
+
+  def pop
+    @deck.pop
+  end
+  
 end
